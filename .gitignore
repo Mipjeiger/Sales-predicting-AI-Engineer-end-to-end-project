@@ -1,0 +1,8 @@
+.DS_Store
+# Logslogs
+*.log
+logs
+logs/*
+*.DS_Store
+.env
+MLOps/models
